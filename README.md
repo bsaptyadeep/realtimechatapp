@@ -1,6 +1,6 @@
-# game-of-thrones-chat-app
+# Realtime Chat app
 
 ## Live Url
 [https://chat-app-react-ten.vercel.app/](https://realtime-chat-app-client.vercel.app/)
 
-I made this application to mimic various Game of Thrones Episodes with my friend. The frontend is made with ReactJs and CSS. I use node Js for backend authentication. The message stream is made with getstream.io. 
+This chat app is made with on MERN stack, socket.io is used for bi-directional realtime comunication. The user can enter into any existing room or create a new room, when a participant enters or exits all other participant get a message about it.
